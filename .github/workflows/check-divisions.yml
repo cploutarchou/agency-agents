@@ -5,7 +5,7 @@ name: Check Divisions Consistency
 on:
   pull_request:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   check-divisions:
