@@ -9,7 +9,7 @@ name: Check Hermes Config Rewrite
 on:
   pull_request:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   check-hermes-config-rewrite:
